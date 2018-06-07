@@ -1,5 +1,8 @@
 Cross-Site Content (Data) Hijacking (XSCH) PoC Project 
 =======================================
+
+<a href="https://www.vsplate.com/?github=vulnspy/CrossSiteContentHijacking"><img alt="VSPLATE GO" src="https://raw.githubusercontent.com/vsplate/images/master/vsgo_btn.png" width="200px"></a>
+
 License
 -------
 Released under AGPL (see LICENSE for more information).
